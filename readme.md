@@ -22,10 +22,8 @@ Para mi, es un gusto que puedas visualizar mi portafolio web presionando el sigu
 
 ### Estadísticas en mi cuenta de Github 📓
 
-<div>
-  <img src='https://github-readme-stats.vercel.app/api?username=brayanduranvelasquez&show_icons=true' height="175px"> 
+<div> 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brayanduranvelasquez&layout=compact&langs_count=8' height="175px">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=brayanduranvelasquez&theme=light' height="175px">
 </div>
 
 ### ¿Donde puedes encontrarme? 😁
