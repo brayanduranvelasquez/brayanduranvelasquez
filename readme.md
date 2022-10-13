@@ -8,9 +8,7 @@ Para mi, es un gusto que puedas visualizar mi portafolio web presionando el sigu
 
 ### Habilidades 🤓
 
-<div style="display: flex;">
-    [![Habilidades](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
-</div>
+[![Habilidades](https://skillicons.dev/icons?i=git,sass,nodejs,ts,vue,react,laravel,mysql&perline=4)](https://skillicons.dev)
 
 ### Estadísticas en mi cuenta de Github 📓
 
