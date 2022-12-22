@@ -4,7 +4,7 @@
 
 ### Mi Portafolio 💻
 
-Para mi, es un gusto que puedas visualizar mi portafolio web presionando el siguiente enlace: [portafolio](https://brayanduranvelasquez.github.io/)
+Para mi, es un gusto que puedas visualizar mi portafolio web presionando el siguiente enlace: [portafolio](https://brayanduranvelasquez-github-io.vercel.app/)
 
 ### Habilidades 🤓
 
