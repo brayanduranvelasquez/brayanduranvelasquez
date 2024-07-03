@@ -6,7 +6,7 @@ It is my pleasure that you can take a look at my web portfolio clicking on the n
 
 ### Abilities 🤓
 
-[![Abilities](https://skillicons.dev/icons?i=git,sass,nodejs,ts,react,nextjs,laravel,mysql&perline=4)](https://skillicons.dev)
+[![Abilities](https://skillicons.dev/icons?i=git,sass,nodejs,ts,react,nextjs&perline=4)](https://skillicons.dev)
 
 ### My GitHub account 📓
 
