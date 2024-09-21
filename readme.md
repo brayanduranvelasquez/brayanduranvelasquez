@@ -2,7 +2,7 @@
 
 ### My Portfolio 💻
 
-You can take a look at my web portfolio clicking on the next link [portfolio](https://portfolio-one-tau.vercel.app/)
+You can take a look at my web portfolio clicking on the next link [portfolio](https://portfolio-one-tau-97.vercel.app/)
 
 ### My GitHub account 📓
 
