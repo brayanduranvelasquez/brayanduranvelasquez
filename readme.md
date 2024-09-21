@@ -2,7 +2,7 @@
 
 ### My Portfolio 💻
 
-It is my pleasure that you can take a look at my web portfolio clicking on the next link [portfolio](https://brayanduranvelasquez-github-io.vercel.app/)
+You can take a look at my web portfolio clicking on the next link [portfolio](https://portfolio-one-tau.vercel.app/)
 
 ### My GitHub account 📓
 
