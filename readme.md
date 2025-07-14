@@ -2,14 +2,14 @@
 
 ### About Me 👾
 
-Frontend Developer | React, Next.js & JavaScript Full-Stack
+Web Developer | React, Next.js, Tailwind, ExpressJs, MongoDB 
 
 I'm passionate about crafting dynamic web applications with React and Next.js.
 With a strong grasp of JavaScript for full-stack development, including backend experience with Express.js, I bring comprehensive capabilities to any project.
 
 Always learning and embracing new technologies, I'm eager to connect and build groundbreaking solutions. Let's create together!
 
-### My Portfolio 💻
+### Portfolio 💻
 
 You can take a look at my web portfolio clicking on the next link [portfolio](https://portfolio-one-tau-97.vercel.app/)
 
