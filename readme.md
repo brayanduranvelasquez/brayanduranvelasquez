@@ -1,19 +1,20 @@
-## ¡Hola, soy Brayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## ¡Hola, soy Brayan Duran! 👋
 
-### Desarrollador Frontend & Entusiasta del Ecosistema Web 👾
+Soy un desarrollador de software enfocado en el ecosistema Frontend con **más de 4 años de experiencia** construyendo aplicaciones web reales y escalables. Mi especialidad es crear interfaces dinámicas con **React, Next.js y Tailwind CSS**. 
 
-Me especializo en crear interfaces dinámicas y escalables utilizando **React, Next.js y Tailwind CSS**. Mi enfoque principal es el Frontend, donde me apasiona cuidar el rendimiento y la experiencia del usuario.
+Aunque mi fuerte es el Frontend, manejo habilidades de **Backend (Node.js, Express, MongoDB)** para entender el ecosistema real de las aplicaciones. Esto me ha permitido comprender gran parte del ciclo de vida completo de un producto web.
 
-Para complementar mi perfil y ser un colaborador más integral, he desarrollado habilidades en el **Backend (Node.js, Express, MongoDB)**. Esto me permite comprender el ciclo de vida completo de una aplicación y ayudar en el lado del backend en estas tecnologías cuando el proyecto lo requiera.
+💼 **¿En qué ando ahora?**
+Actualmente estoy dedicado al desarrollo de proyectos internos, usando mis habilidades para crear interfaces interactivas, modernas y visualmente atractivas, asegurando siempre un producto de gran calidad. 🕵️‍♂️✨
 
-¡Listo para construir soluciones que marquen la diferencia!
+💡 Fuera del código, soy un gamer apasionado y competitivo. Si no me encuentras optimizando una interfaz, probablemente me este enfrentando en un 5vs5 en **Honor of Kings** o sobreviviendo en **Farlight 84**. Siempre buscando el próximo gran reto, ya sea en el servidor o en la partida 💻.
 
-### Portafolio 💻
+-------------------------------------------------------
 
-Puedes echar un vistazo a mi portafolio web haciendo clic en el siguiente enlace:  
+### Mi Portafolio 💻
+Puedes echar un vistazo a mi trayectoria y experimentos técnicos aquí:  
 👉 [**brayan-duran-portfolio.vercel.app**](https://brayan-duran-portfolio.vercel.app)
 
 ### ¿Dónde encontrarme? 😁
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanduranvelasquez/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayan13s133@gmail.com)
