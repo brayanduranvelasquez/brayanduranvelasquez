@@ -13,7 +13,7 @@ Actualmente estoy dedicado al desarrollo de proyectos internos, usando mis habil
 
 ### Mi Portafolio 💻
 Puedes echar un vistazo a mi trayectoria y experimentos técnicos aquí:  
-👉 [**brayan-duran-portfolio.vercel.app**](https://brayan-duran-portfolio.vercel.app)
+👉 [**portafolio**](https://brayan-duran-portfolio.vercel.app)
 
 ### ¿Dónde encontrarme? 😁
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanduranvelasquez/)
