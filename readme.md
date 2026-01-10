@@ -4,9 +4,9 @@
 
 Me especializo en crear interfaces dinámicas y escalables utilizando **React, Next.js y Tailwind CSS**. Mi enfoque principal es el Frontend, donde me apasiona cuidar el rendimiento y la experiencia del usuario.
 
-Para complementar mi perfil y ser un colaborador más integral, he desarrollado habilidades en el **Backend (Node.js, Express, MongoDB)**. Esto me permite comprender el ciclo de vida completo de una aplicación, diseñar mejores integraciones de API y ayudar en el lado del servidor cuando el proyecto lo requiera.
+Para complementar mi perfil y ser un colaborador más integral, he desarrollado habilidades en el **Backend (Node.js, Express, MongoDB)**. Esto me permite comprender el ciclo de vida completo de una aplicación y ayudar en el lado del backend en estas tecnologías cuando el proyecto lo requiera.
 
-¡Siempre aprendiendo y listo para construir soluciones que marquen la diferencia!
+¡Listo para construir soluciones que marquen la diferencia!
 
 ### Portafolio 💻
 
