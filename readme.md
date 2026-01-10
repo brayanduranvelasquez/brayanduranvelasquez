@@ -1,25 +1,3 @@
-## Hello there, I am Brayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-### Frontend Developer & Web Ecosystem Enthusiast 👾
-
-I specialize in crafting dynamic and scalable web interfaces using **React, Next.js, and Tailwind CSS**. My core passion lies in the Frontend, where I focus on performance and seamless user experiences.
-
-To become a more well-rounded collaborator, I have expanded my skills into **Backend development (Node.js, Express, MongoDB)**. This allows me to understand the full application lifecycle, design better API integrations, and jump into the server-side whenever necessary to support the team.
-
-Always learning and ready to build groundbreaking solutions. Let’s connect!
-
-### Portfolio 💻
-
-Take a look at my web portfolio clicking on the next link:  
-👉 [**brayan-duran-portfolio.vercel.app**](https://brayan-duran-portfolio.vercel.app)
-
-### Where can you find me? 😁
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanduranvelasquez/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayan13s133@gmail.com)
-
--------------------------------------------------------
-
 ## ¡Hola, soy Brayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Desarrollador Frontend & Entusiasta del Ecosistema Web 👾
