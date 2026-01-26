@@ -1,4 +1,4 @@
-## ¡Hola, soy Brayan Duran! 👋
+## ¡Hola, soy Brayan! 👋
 
 Soy desarrollador web con **más de 4 años de experiencia**. Mi especialidad es crear sitios web y aplicaciones dinámicas con **React y Next.js**. además de la creación de aplicaciones móviles para Android usando Expo. 
 
