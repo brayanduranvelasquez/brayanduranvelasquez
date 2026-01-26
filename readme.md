@@ -1,8 +1,6 @@
 ## ¡Hola, soy Brayan! 👋
 
-Soy desarrollador web con **más de 4 años de experiencia**. Mi especialidad es crear sitios web y aplicaciones dinámicas con **React y Next.js**. además de la creación de aplicaciones móviles para Android usando Expo. 
-
-Aunque mi área de mayor desempeño es la interfaz gráfica (Frontend), domino el ecosistema Full Stack Javascript con tecnologías de **Backend (como Node.js, Express, Nestjs)** y base de datos **(MongoDB, Postgres)** para armar sistemas modernos.
+Soy desarrollador web con **más de 4 años de experiencia**. Mi especialidad es crear sitios web y aplicaciones con **React y Next.js**. además de la creación de aplicaciones móviles para Android usando Expo. Aunque mi área de mayor desempeño es la interfaz gráfica (Frontend), domino el ecosistema Full Stack Javascript con tecnologías de **Backend (como Node.js, Express y aprendiendo Nestjs)** y base de datos **(MongoDB y Postgres)** para armar sistemas modernos.
 
 💼 **¿En qué ando ahora?**
 Actualmente desarrollo proyectos internos integrando **IA para potenciar mi flujo de trabajo**. Mi enfoque es crear interfaces interactivas, modernas y visualmente atractivas, asegurando siempre resultados de alta calidad en tiempo récord. 🕵️‍♂️✨
