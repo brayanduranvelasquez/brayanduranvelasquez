@@ -1,11 +1,11 @@
 ## ¡Hola, soy Brayan Duran! 👋
 
-Soy un desarrollador de software enfocado en el ecosistema Frontend con **más de 4 años de experiencia** construyendo aplicaciones web reales y escalables. Mi especialidad es crear interfaces dinámicas con **React, Next.js y Tailwind CSS**. 
+Soy desarrollador web con **más de 4 años de experiencia**. Mi especialidad es crear sitios web y aplicaciones dinámicas con **React y Next.js**. además de la creación de aplicaciones móviles para Android usando Expo. 
 
-Aunque mi fuerte es el Frontend, manejo habilidades de **Backend (Node.js, Express, MongoDB)** para entender el ecosistema real de las aplicaciones. Esto me ha permitido comprender gran parte del ciclo de vida completo de un producto web.
+Aunque mi área de mayor desempeño es la interfaz gráfica (Frontend), domino el ecosistema Full Stack Javascript con tecnologías de **Backend (como Node.js, Express, Nestjs)** y base de datos **(MongoDB, Postgres)** para armar sistemas modernos.
 
 💼 **¿En qué ando ahora?**
-Actualmente estoy dedicado al desarrollo de proyectos internos, usando mis habilidades para crear interfaces interactivas, modernas y visualmente atractivas, asegurando siempre un producto de gran calidad. 🕵️‍♂️✨
+Actualmente desarrollo proyectos internos integrando **IA para potenciar mi flujo de trabajo**. Mi enfoque es crear interfaces interactivas, modernas y visualmente atractivas, asegurando siempre resultados de alta calidad en tiempo récord. 🕵️‍♂️✨
 
 💡 Fuera del código, soy un gamer apasionado y competitivo. Si no me encuentras optimizando una interfaz, probablemente me este enfrentando en un 5vs5 en **Honor of Kings** o sobreviviendo en **Farlight 84**. Siempre buscando el próximo gran reto, ya sea en el servidor o en la partida 💻.
 
