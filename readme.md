@@ -10,7 +10,7 @@ Actualmente desarrollo proyectos internos integrando **IA para potenciar mi fluj
 -------------------------------------------------------
 
 ### Mi Portafolio 💻
-Puedes echar un vistazo a mi trayectoria y experimentos técnicos aquí:  
+Puedes echar un vistazo aquí:  
 👉 [**portafolio**](https://brayan-duran-portfolio.vercel.app)
 
 ### ¿Dónde encontrarme? 😁
