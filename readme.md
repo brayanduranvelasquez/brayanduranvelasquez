@@ -20,4 +20,3 @@ Construyo sistemas web modernos, aplicando mis conocimientos en el área y poten
 
 ### 🔗 Conecta conmigo
 * 🌍 [**Portafolio**](https://brayan-duran-portfolio.vercel.app)
-* 💼
