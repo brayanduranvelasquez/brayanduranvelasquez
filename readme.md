@@ -7,8 +7,8 @@ Construyo sistemas web modernos, aplicando mis conocimientos en el área y poten
 
 ### 💻 Stack Tecnológico
 * **Frontend:** React, Next.js y Expo (Mobile).
-* **Backend:** Node.js, Express, NestJS (este último en progreso).
-* **Base de Datos:** MongoDB, PostgreSQL.
+* **Backend:** Express y NestJS (este último en progreso).
+* **Base de Datos:** MongoDB y PostgreSQL.
 
 ---
 
