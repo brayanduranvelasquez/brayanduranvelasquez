@@ -1,18 +1,23 @@
-## ¡Hola, soy Brayan! 👋
+# ¡Hola, soy Brayan! 👋🏻
 
-Soy desarrollador web con **más de 4 años de experiencia**. Mi especialidad es crear sitios y aplicaciones web usando **React y Next.js**, además de la creación de aplicaciones móviles para Android usando Expo. Aunque mi área de mayor desempeño son las interfaces (Frontend), domino el ecosistema Full Stack Javascript con tecnologías de **Backend (como Node.js, Express y actualmente aprendiendo Nestjs)** y base de datos **(MongoDB y Postgres)** para armar sistemas modernos.
+Con más de **+4 años de experiencia**, me he especializado en la creación de sitios web y aplicaciones móviles para Android. 👀🖥️
 
-💼 **¿En qué ando ahora?**
-Actualmente desarrollo proyectos internos integrando **IA para potenciar mi flujo de trabajo**. Mi enfoque es crear interfaces interactivas, modernas y visualmente atractivas, asegurando siempre resultados de alta calidad en tiempo récord. 🕵️‍♂️✨
+### 🛠️ ¿Qué hago actualmente?
+Construyo sistemas web modernos, aplicando mis conocimientos en el área y potenciado con **herramientas de IA** para acelerar el desarrollo. 💪🏻
 
-💡 Fuera del código, soy un gamer apasionado y competitivo. Si no me encuentras optimizando una interfaz, probablemente me este enfrentando en un 5vs5 en **Honor of Kings** o sobreviviendo en **Farlight 84**. Siempre buscando el próximo gran reto, ya sea en el servidor o en la partida 💻.
+### 💻 Stack Tecnológico
+* **Frontend:** React, Next.js y Expo (Mobile).
+* **Backend:** Node.js, Express, NestJS (este último en progreso).
+* **Base de Datos:** MongoDB, PostgreSQL.
 
--------------------------------------------------------
+---
 
-### Mi Portafolio 💻
-Puedes echar un vistazo aquí:  
-👉 [**portafolio**](https://brayan-duran-portfolio.vercel.app)
+### ☕ Fuera del código
+* 🎮 **Gamer:** Me encuentras en el rol de **Jungla** en *Honor of Kings* o sobreviviendo en *Farlight 84*.
+* ☀️ **Morning person:** Disfruto empezar el día temprano.
+* 🏋️‍♂️ **Gym:** Entrenar es parte de mi rutina para mantenerme enfocado y con energía.
+* ☕ **Latte lover:** Nada como un buen café con leche para acompañar la jornada.
 
-### ¿Dónde encontrarme? 😁
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanduranvelasquez/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayan13s133@gmail.com)
+### 🔗 Conecta conmigo
+* 🌍 [**Portafolio**](https://brayan-duran-portfolio.vercel.app)
+* 💼
