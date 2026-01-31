@@ -2,11 +2,11 @@
 
 Con más de **+4 años de experiencia**, me he especializado en la creación de sitios web y aplicaciones móviles para Android. 👀🖥️
 
-### 🛠️ ¿Qué hago actualmente?
-Construyo sistemas web modernos, aplicando mis conocimientos en el área y potenciado con **herramientas de IA** para acelerar el desarrollo. 💪🏻
+### 🛠️ ¿Qué estoy construyendo?
+Actualmente enfocado en el desarrollo de **sistemas web modernos**, aplicando mis conocimientos en arquitectura de interfaces y potenciando el flujo de trabajo con **herramientas de IA** para acelerar la entrega de software de calidad. 💪🏻
 
 ### 💻 Stack Tecnológico
-* **Frontend:** React, Next.js y Expo (Mobile).
+* **Frontend (Mayor Fortaleza):** React, Next.js y Expo. 🚀
 * **Backend:** Express y NestJS (este último en progreso).
 * **Base de Datos:** MongoDB y PostgreSQL.
 
